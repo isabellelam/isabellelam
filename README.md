@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabellelam
 - 👀 I’m interested in Optics and Imaging studies
-- 🌱 I’m currently learning CT and MRI reconstruction techniques on a Kawasaki Calcium CT study! (I had Kawasaki (Autoimmune disease) as a kid!)
+- 🌱 I’m currently learning CT and MRI reconstruction techniques; I'm currently working on realtime MRI catheter tracking software
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
